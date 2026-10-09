@@ -1,0 +1,14 @@
+build/
+*.obj
+*.pdb
+*.exp
+*.ilk
+*.lib
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.log
+imgui.ini
